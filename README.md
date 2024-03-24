@@ -74,11 +74,14 @@ endmodule
 Developed by:L.yagnesh kumar reddy
 regi:212223100024
 
-Logic Diagram ex 2(2) gate
+Logic Diagram 
+![Screenshot 2024-03-24 131640](https://github.com/23004742/BOOLEAN_FUNCTION_MINIMIZATION/assets/150319318/3e9a8700-b6a3-4a80-87d6-4a2d7796c875)
 
-RTL realization ex 2(1) gate
+RTL realization 
+![Screenshot 2024-03-24 131647](https://github.com/23004742/BOOLEAN_FUNCTION_MINIMIZATION/assets/150319318/47e6f2a7-8fb1-4968-85c8-a469fc3b1592)
 
-Output: truthtable ex 2 gate
+Output: truthtable 
+![Screenshot 2024-03-24 131702](https://github.com/23004742/BOOLEAN_FUNCTION_MINIMIZATION/assets/150319318/4428dc81-56c0-4b69-a720-f80534c18f54)
 
 Result:
 
